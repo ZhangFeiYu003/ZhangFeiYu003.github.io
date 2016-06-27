@@ -1,0 +1,225 @@
+{
+  "res": true,
+  "errcode": -1,
+  "errmsg": "",
+  "data": {
+    "swiper":[
+      {
+        "imgsrc": "/item/images/banner_01.jpg"
+      },
+      {
+        "imgsrc": "/item/images/banner_02.jpg"
+      },
+      {
+        "imgsrc": "/item/images/banner_03.jpg"
+      },
+      {
+        "imgsrc": "/item/images/banner_04.jpg"
+      }
+    ],
+    "selection":[
+      {
+        "data1":{
+          "imgsrc": "/item/images/img_02.jpg"
+        },
+        "data2":{
+          "imgsrc": "/item/images/img_03.jpg"
+        },
+        "data3":{
+          "imgsrc": "/item/images/img_04.jpg"
+        }
+      },
+      {
+        "data1":{
+          "imgsrc": "/item/images/img_05.jpg"
+        },
+        "data2":{
+          "imgsrc": "/item/images/img_06.jpg"
+        },
+        "data3":{
+          "imgsrc": "/item/images/img_07.jpg"
+        }
+      }
+    ],
+    "classify":[
+      {
+        "imgsrc" : "/item/images/img_09.jpg",
+        "spanTitle":"潮·青春",
+        "iTitle":"青春的聆听着，融入潮流",
+        "color":"color:#000",
+        "data1":{
+          "imgsrc": "/item/images/img_10.jpg"
+        },
+        "data2":{
+          "imgsrc": "/item/images/img_11.jpg"
+        },
+        "data3":{
+          "imgsrc": "/item/images/img_12.jpg"
+        },
+        "data4":{
+          "imgsrc": "/item/images/img_13.jpg"
+        },
+        "data5":{
+          "imgsrc": "/item/images/img_14.jpg"
+        },
+        "data6":{
+          "imgsrc": "/item/images/img_15.jpg"
+        } 
+      },
+      {
+        "imgsrc" : "/item/images/img_16.jpg",
+        "spanTitle":"享·美味",
+        "iTitle":"享受健康美味，触动味蕾",
+        "data1":{
+          "imgsrc": "/item/images/img_17.jpg"
+        },
+        "data2":{
+          "imgsrc": "/item/images/img_18.jpg"
+        },
+        "data3":{
+          "imgsrc": "/item/images/img_19.jpg"
+        },
+        "data4":{
+          "imgsrc": "/item/images/img_20.jpg"
+        },
+        "data5":{
+          "imgsrc": "/item/images/img_21.jpg"
+        },
+        "data6":{
+          "imgsrc": "/item/images/img_22.jpg"
+        } 
+      },
+      {
+        "imgsrc" : "/item/images/img_23.jpg",
+        "spanTitle":"品·人生",
+        "iTitle":"人生是一杯酒，品味深邃",
+        "data1":{
+          "imgsrc": "/item/images/img_24.jpg"
+        },
+        "data2":{
+          "imgsrc": "/item/images/img_25.jpg"
+        },
+        "data3":{
+          "imgsrc": "/item/images/img_26.jpg"
+        },
+        "data4":{
+          "imgsrc": "/item/images/img_27.jpg"
+        },
+        "data5":{
+          "imgsrc": "/item/images/img_28.jpg"
+        },
+        "data6":{
+          "imgsrc": "/item/images/img_29.jpg"
+        } 
+      },
+      {
+        "imgsrc" : "/item/images/img_30.jpg",
+        "spanTitle":"智·生活",
+        "iTitle":"智享高端生活，自在由我",
+        "data1":{
+          "imgsrc": "/item/images/img_31.jpg"
+        },
+        "data2":{
+          "imgsrc": "/item/images/img_32.jpg"
+        },
+        "data3":{
+          "imgsrc": "/item/images/img_33.jpg"
+        },
+        "data4":{
+          "imgsrc": "/item/images/img_34.jpg"
+        },
+        "data5":{
+          "imgsrc": "/item/images/img_35.jpg"
+        },
+        "data6":{
+          "imgsrc": "/item/images/img_36.jpg"
+        } 
+      },
+      {
+        "imgsrc" : "/item/images/img_37.jpg",
+        "spanTitle":"童心肆起",
+        "iTitle":"纯净干净简单，它是童心",
+        "data1":{
+          "imgsrc": "/item/images/img_38.jpg"
+        },
+        "data2":{
+          "imgsrc": "/item/images/img_39.jpg"
+        },
+        "data3":{
+          "imgsrc": "/item/images/img_40.jpg"
+        },
+        "data4":{
+          "imgsrc": "/item/images/img_41.jpg"
+        },
+        "data5":{
+          "imgsrc": "/item/images/img_42.jpg"
+        },
+        "data6":{
+          "imgsrc": "/item/images/img_43.jpg"
+        } 
+      }
+    ],
+    "newGood":[
+      {
+        "data1":{
+            "imgsrc":"/item/images/img_45.jpg",
+            "title":"时尚杂志款-可两面穿 刺绣字母体恤 可以直接搭配打底裤",
+            "price":"￥40.00"
+        },
+        "data2":{
+            "imgsrc":"/item/images/img_46.jpg",
+            "title":"时尚杂志款-可两面穿 刺绣字母体恤 可以直接搭配打底裤",
+            "price":"￥40.00"
+        }
+      },
+      {
+        "data1":{
+            "imgsrc":"/item/images/img_47.jpg",
+            "title":"时尚杂志款-可两面穿 刺绣字母体恤 可以直接搭配打底裤",
+            "price":"￥40.00"
+        },
+        "data2":{
+            "imgsrc":"/item/images/img_48.jpg",
+            "title":"时尚杂志款-可两面穿 刺绣字母体恤 可以直接搭配打底裤",
+            "price":"￥40.00"
+        }
+      },
+      {
+        "data1":{
+            "imgsrc":"/item/images/img_49.jpg",
+            "title":"时尚杂志款-可两面穿 刺绣字母体恤 可以直接搭配打底裤",
+            "price":"￥40.00"
+        },
+        "data2":{
+            "imgsrc":"/item/images/img_50.jpg",
+            "title":"时尚杂志款-可两面穿 刺绣字母体恤 可以直接搭配打底裤",
+            "price":"￥40.00"
+        }
+      },
+      {
+        "data1":{
+            "imgsrc":"/item/images/img_51.jpg",
+            "title":"时尚杂志款-可两面穿 刺绣字母体恤 可以直接搭配打底裤",
+            "price":"￥40.00"
+        },
+        "data2":{
+            "imgsrc":"/item/images/img_52.jpg",
+            "title":"时尚杂志款-可两面穿 刺绣字母体恤 可以直接搭配打底裤",
+            "price":"￥40.00"
+        }
+      },
+      {
+        "data1":{
+            "imgsrc":"/item/images/img_53.jpg",
+            "title":"时尚杂志款-可两面穿 刺绣字母体恤 可以直接搭配打底裤",
+            "price":"￥40.00"
+        },
+        "data2":{
+            "imgsrc":"/item/images/img_54.jpg",
+            "title":"时尚杂志款-可两面穿 刺绣字母体恤 可以直接搭配打底裤",
+            "price":"￥40.00"
+        }
+      }
+    ]
+  }
+}
